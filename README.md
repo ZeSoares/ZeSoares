@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZeSoares
+- 👀 I’m interested in coding and working in team!
+- 🌱 I’m currently learning java and C.
+- 💞️ I’m looking to collaborate on java projects or anything that has teamwork included! 
+- 📫 How to reach me: soareze1414@gmail.com
